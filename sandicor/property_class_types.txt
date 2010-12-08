@@ -1,0 +1,11 @@
+2-4 Units
+Com-Res Incom
+Com-Off/Rtl/Ind
+Com-Hotel/Motel
+Com-BusOp
+Com-Lnd/Rn/Grv
+Com-MobHmPark
+Residential Rental
+Residential
+Fractional Ownership
+Lot/Land
